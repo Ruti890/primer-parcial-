@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jesus hoyos "
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt_dato"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1)\nC\n\n2)\nC\n\n3)\nC\n\n4)\nB\n\n5)\nC\n\n6)\nA\n\n7)\nC\n\n8)\nB"
+        android:textSize="18sp"/>
+</LinearLayout>
